@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary" type="color">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="Red">#FF0000</color>
+    <color name="Orange">#FF5722</color>
+    <color name="Yellow">#FFEB3B</color>
+    <color name="Green">#4CAF50</color>
+    <color name="Lime">#8BC34A</color>
+    <color name="Blue">#2196F3</color>
+    <color name="Purple">#673AB7</color>
+    <color name="Cyan">#00BCD4</color>
+    <color name="Navy">#122152</color>
+    <color name="Grey">#363438</color>
+    <color name="White">#FFFFFF</color>
+
+    <integer-array name="colorPalatte">
+        <item>@color/Red</item>
+        <item>@color/Orange</item>
+        <item>@color/Yellow</item>
+        <item>@color/Green</item>
+        <item>@color/Lime</item>
+        <item>@color/Blue</item>
+        <item>@color/Purple</item>
+        <item>@color/Cyan</item>
+        <item>@color/Navy</item>
+        <item>@color/Grey</item>
+    </integer-array>
+
+</resources>
